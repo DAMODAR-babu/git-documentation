@@ -1,5 +1,5 @@
 #NTRODUCION TO AROID APPLICATION
 
 -java
--pythn
+-python
 -c
